@@ -22,6 +22,9 @@
 - **Diagnosis of plant diseases** using **Deep learning models** via smartphone camera (output: disease name, disease information, treatment solution)
 - **Visualization** of data in the form of **GIS (Geographic Information System)** to make it easier for farmers to **Monitoring** the spread of plant diseases.
 
+### Demo app and Mobile repository
+Application demo and development history can be seen [here.](https://github.com/farmer-nusantara/farmer-nusantara-mobile)
+
 ### Download Farmer Nusantara APK
 https://drive.google.com/file/d/1Xa3A0ef6abYc6oC-oxZXT8TL3fPrtrEs/view?usp=sharing
 
