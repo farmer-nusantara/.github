@@ -1,6 +1,8 @@
 ### Table of Content
 - [About Farmer Nusantara](https://github.com/farmer-nusantara#c22-ps004---capstone-project-farmer-nusantara)
   - [Main Feature](https://github.com/farmer-nusantara#main-feature)
+  - [Demo App](https://github.com/farmer-nusantara#demo-app-and-mobile-repository)
+  - [Download APK](https://github.com/farmer-nusantara#download-farmer-nusantara-apk)
 - [Members](https://github.com/farmer-nusantara#members)
 - [Repository Path](https://github.com/farmer-nusantara#repository-path)
 - [Tech Stack](https://github.com/farmer-nusantara#tech-stack)
