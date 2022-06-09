@@ -1,15 +1,23 @@
 # C22-PS004 - Capstone Project (Farmer Nusantara)
-![md_cover](./md_cover.png)
+
+<p align="center">
+  <img width="300px" src="https://storage.googleapis.com/farmer-nusantara-storage/logo/Farmer%20Nusantara%20Logo%20FIll.png" />
+</p>
+
 ## Hi there! 👋
 <strong>Farmer Nusantara</strong> is a smartphone application was developed by utilizing deep learning and the application of GIS (Geographic Information System) which can help farmers identify plant diseases and facilitate disease tracking. The system aims to increase the production of Indonesian farmers, both in quantity and quality, so that they can fulfill the food supply chain in an effort to realize the second point of the SDG 2030 which includes food security and agricultural sustainability.
 
+### Main Feature
+- **Diagnosis of plant diseases** using **Deep learning models** via smartphone camera (output: disease name, disease information, treatment solution)
+- **Visualization** of data in the form of **GIS** to make it easier for farmers to **Monitoring** the spread of plant diseases.
+
 ## Members
 - (ML) M7004F0201 - Ahmad Reyhan Abdillah - Institut Teknologi Sepuluh Nopember
-- (ML) M2214F1988 - Anggasta Tia Adi Kusuma - Universitas Islam Indonesia
-- (MD) A2214F1984 - Fahrudin Nasikh Az Zuhdu - Universitas Islam Indonesia
-- (MD) A2214F1991 - Alif Maulana Rizqi - Universitas Islam Indonesia
-- (CC) C2369F2922 - Rahman Nurhidayat - STMIK Amik Bandung
-- (CC) C7369F2923 - Rio Adiwijaya - STMIK Amik Bandung
+- (ML) M2214F1988 - [Anggasta Tia Adi Kusuma](https://www.linkedin.com/in/anggasta-tirta-adi-kusuma) - Universitas Islam Indonesia
+- (MD) A2214F1984 - [Fahrudin Nasikh Az Zuhdu](https://www.linkedin.com/in/fahrudin-nasikh-az-zuhdu-38625b1b0/) - Universitas Islam Indonesia
+- (MD) A2214F1991 - [Alif Maulana Rizqi](https://www.linkedin.com/in/alif-maulana-rizqi-165145239) - Universitas Islam Indonesia
+- (CC) C2369F2922 - [Rahman Nurhidayat](https://www.linkedin.com/in/rahman-nurhidayat) - STMIK Amik Bandung
+- (CC) C7369F2923 - [Rio Adiwijaya](https://www.linkedin.com/in/rio-adiwijaya-395082237) - STMIK Amik Bandung
 
 ## Repository Path
 - <a href="https://github.com/farmer-nusantara/farmer-nusantara-mobile">Mobile</a>
@@ -31,3 +39,33 @@
   <img src="https://www.dicoding.com/blog/wp-content/uploads/2019/04/androidlogo.png" width="150px" alt="android studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="70px" alt="visual studio code" />
 </div>
+
+## Task Management
+We used Trello for all task management during the development of this project, you can check the details here: [Task History members in Trello](https://trello.com/b/hfiYuDfq/farmer-nusantara)
+
+![fasa trello](https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/fasa_trello.png)
+
+## Prototype UI Design
+Build with:
+- Figma
+
+You can check the full details here: [Farmer Nusantara Prototype UI Design](https://www.figma.com/file/17AzdTwHTL8k62xaj2kRGS/Farmer-Nusantara-App?node-id=2%3A2)
+
+![prototype ui design](https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/prototype_ui_design.png)
+
+## Farmer Nusantara RestAPI
+Build with:
+- Exprees Js
+- Postman
+- JSON
+- MongoDB
+
+You can check the full details here: [Farmer Nusantara RestAPI Documentations](https://documenter.getpostman.com/view/10712714/UyxnDjWp)</br>
+and You can see details and history during the development of this ResAPI here: [Backend Repository](https://github.com/farmer-nusantara/farmer-nusantara-api)
+
+![farmer nusantara api](https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/farmer_nusantara_api.png)
+
+## Cloud Architecture
+We use **Google Cloud Platform(GCP)** services to run this application. Details of the services we use, you can check here: [Cloud Repository](https://github.com/farmer-nusantara/farmer-nusantara-cloud)
+
+![fasa cloud archicture](https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png)
