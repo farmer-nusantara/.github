@@ -22,6 +22,9 @@
 - **Diagnosis of plant diseases** using **Deep learning models** via smartphone camera (output: disease name, disease information, treatment solution)
 - **Visualization** of data in the form of **GIS (Geographic Information System)** to make it easier for farmers to **Monitoring** the spread of plant diseases.
 
+### Download Farmer Nusantara APK
+https://drive.google.com/file/d/1Xa3A0ef6abYc6oC-oxZXT8TL3fPrtrEs/view?usp=sharing
+
 ## Members
 - (ML) M7004F0201 - [Ahmad Reyhan Abdillah](https://www.linkedin.com/in/ahmadreyhanabdillah) - Institut Teknologi Sepuluh Nopember
 - (ML) M2214F1988 - [Anggasta Tia Adi Kusuma](https://www.linkedin.com/in/anggasta-tirta-adi-kusuma) - Universitas Islam Indonesia
@@ -82,6 +85,3 @@ We use **Google Cloud Platform(GCP)** services to run this application. Details 
 >**Note**: The **plant classification process** (running Deep Learning Models) is carried out in the **mobile application.**
 
 ![fasa cloud archicture](https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png)
-
-## Download Farmer Nusantara APK 
-https://drive.google.com/file/d/1Xa3A0ef6abYc6oC-oxZXT8TL3fPrtrEs/view?usp=sharing
