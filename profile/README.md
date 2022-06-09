@@ -6,6 +6,7 @@
 - [Tech Stack](https://github.com/farmer-nusantara#tech-stack)
 - [Task Management](https://github.com/farmer-nusantara#task-management)
 - [Prototype UI Design](https://github.com/farmer-nusantara#prototype-ui-design)
+- [Machine Learning](https://github.com/farmer-nusantara#machine-learning)
 - [RestAPI](https://github.com/farmer-nusantara#farmer-nusantara-restapi)
 - [Cloud Architecture](https://github.com/farmer-nusantara#cloud-architecture)
 
@@ -69,6 +70,23 @@ Build with:
 You can check the full details here: [Farmer Nusantara Prototype UI Design](https://www.figma.com/file/17AzdTwHTL8k62xaj2kRGS/Farmer-Nusantara-App?node-id=2%3A2)
 
 ![prototype ui design](https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/prototype_ui_design.png)
+
+## Machine Learning
+Build with:
+- Tensorflow Python
+- Kaggle API
+
+Already Deep Learning Models:
+- Paddy Plant
+- Corn Plant
+- Soybean Plant
+
+For more information about datasets, accuracy, and all about machine learning, you can click [here.](https://github.com/farmer-nusantara/farmer-nusantara-machine-learning)
+
+<div style="display: flex;">
+  <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/paddy_accuracy.png" alt="paddy"/>
+  <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/corn_accuracy.png" alt="corn"/>
+</div>
 
 ## Farmer Nusantara RestAPI
 Build with:
