@@ -9,7 +9,7 @@
 
 ### Main Feature
 - **Diagnosis of plant diseases** using **Deep learning models** via smartphone camera (output: disease name, disease information, treatment solution)
-- **Visualization** of data in the form of **GIS** to make it easier for farmers to **Monitoring** the spread of plant diseases.
+- **Visualization** of data in the form of **GIS (Geographic Information System)** to make it easier for farmers to **Monitoring** the spread of plant diseases.
 
 ## Members
 - (ML) M7004F0201 - Ahmad Reyhan Abdillah - Institut Teknologi Sepuluh Nopember
@@ -61,7 +61,7 @@ Build with:
 - MongoDB
 
 You can check the full details here: [Farmer Nusantara RestAPI Documentations](https://documenter.getpostman.com/view/10712714/UyxnDjWp)</br>
-and You can see details and history during the development of this ResAPI here: [Backend Repository](https://github.com/farmer-nusantara/farmer-nusantara-api)
+and You can see details and history during the development of this **RestAPI** here: [Backend Repository](https://github.com/farmer-nusantara/farmer-nusantara-api)
 
 ![farmer nusantara api](https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/farmer_nusantara_api.png)
 
