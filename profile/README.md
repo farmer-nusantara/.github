@@ -1,13 +1,13 @@
 ### Table of Content
-- [About Farmer Nusantara](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#c22-ps004---capstone-project-farmer-nusantara)
-  - [Main Feature](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#main-feature)
-- [Members](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#members)
-- [Repository Path](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#repository-path)
-- [Tech Stack](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#tech-stack)
-- [Task Management](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#task-management)
-- [Prototype UI Design](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#prototype-ui-design)
-- [RestAPI](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#farmer-nusantara-restapi)
-- [Cloud Architecture](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#cloud-architecture)
+- [About Farmer Nusantara](https://github.com/farmer-nusantara#c22-ps004---capstone-project-farmer-nusantara)
+  - [Main Feature](https://github.com/farmer-nusantara#main-feature)
+- [Members](https://github.com/farmer-nusantara#members)
+- [Repository Path](https://github.com/farmer-nusantara#repository-path)
+- [Tech Stack](https://github.com/farmer-nusantara#tech-stack)
+- [Task Management](https://github.com/farmer-nusantara#task-management)
+- [Prototype UI Design](https://github.com/farmer-nusantara#prototype-ui-design)
+- [RestAPI](https://github.com/farmer-nusantara#farmer-nusantara-restapi)
+- [Cloud Architecture](https://github.com/farmer-nusantara#cloud-architecture)
 
 # C22-PS004 - Capstone Project (Farmer Nusantara)
 
