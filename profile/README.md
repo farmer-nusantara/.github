@@ -1,3 +1,14 @@
+### Table of Content
+- [About Farmer Nusantara](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#c22-ps004---capstone-project-farmer-nusantara)
+  - [Main Feature](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#main-feature)
+- [Members](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#members)
+- [Repository Path](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#repository-path)
+- [Tech Stack](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#tech-stack)
+- [Task Management](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#task-management)
+- [Prototype UI Design](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#prototype-ui-design)
+- [RestAPI](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#farmer-nusantara-restapi)
+- [Cloud Architecture](https://github.com/farmer-nusantara/.github/blob/main/profile/README.md#cloud-architecture)
+
 # C22-PS004 - Capstone Project (Farmer Nusantara)
 
 <p align="center">
@@ -67,5 +78,7 @@ and You can see details and history during the development of this **RestAPI** h
 
 ## Cloud Architecture
 We use **Google Cloud Platform(GCP)** services to run this application. Details of the services we use, you can check here: [Cloud Repository](https://github.com/farmer-nusantara/farmer-nusantara-cloud)
+
+>**Note**: The **plant classification process** (running Deep Learning Models) is carried out in the **mobile application.**
 
 ![fasa cloud archicture](https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png)
