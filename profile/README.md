@@ -23,7 +23,7 @@
 - **Visualization** of data in the form of **GIS (Geographic Information System)** to make it easier for farmers to **Monitoring** the spread of plant diseases.
 
 ## Members
-- (ML) M7004F0201 - Ahmad Reyhan Abdillah - Institut Teknologi Sepuluh Nopember
+- (ML) M7004F0201 - [Ahmad Reyhan Abdillah](https://www.linkedin.com/in/ahmadreyhanabdillah) - Institut Teknologi Sepuluh Nopember
 - (ML) M2214F1988 - [Anggasta Tia Adi Kusuma](https://www.linkedin.com/in/anggasta-tirta-adi-kusuma) - Universitas Islam Indonesia
 - (MD) A2214F1984 - [Fahrudin Nasikh Az Zuhdu](https://www.linkedin.com/in/fahrudin-nasikh-az-zuhdu-38625b1b0/) - Universitas Islam Indonesia
 - (MD) A2214F1991 - [Alif Maulana Rizqi](https://www.linkedin.com/in/alif-maulana-rizqi-165145239) - Universitas Islam Indonesia
