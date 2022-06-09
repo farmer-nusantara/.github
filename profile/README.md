@@ -82,3 +82,6 @@ We use **Google Cloud Platform(GCP)** services to run this application. Details 
 >**Note**: The **plant classification process** (running Deep Learning Models) is carried out in the **mobile application.**
 
 ![fasa cloud archicture](https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png)
+
+## Download Farmer Nusantara APK 
+https://drive.google.com/file/d/1Xa3A0ef6abYc6oC-oxZXT8TL3fPrtrEs/view?usp=sharing
