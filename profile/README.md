@@ -29,7 +29,7 @@
 Application demo and development history can be seen [here.](https://github.com/farmer-nusantara/farmer-nusantara-mobile)
 
 ### Download Farmer Nusantara APK
-[Download](https://drive.google.com/file/d/1Bi98noGdy2Et9HTqKeBELs-_3yVbz-cX/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1N0C4iRcGkXy2cVX2eCLO0TPDgfAzhBe-/view?usp=sharing)
 
 ## Members
 - (ML) M7004F0201 - [Ahmad Reyhan Abdillah](https://www.linkedin.com/in/ahmadreyhanabdillah) - Institut Teknologi Sepuluh Nopember
