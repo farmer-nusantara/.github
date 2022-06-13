@@ -55,9 +55,9 @@ Application demo and development history can be seen [here.](https://github.com/
   <img src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png" width="150px" alt="google cloud platform" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="180px" alt="mongodb" />
   <img src="https://miro.medium.com/max/837/1*tI-TWV--K05xbXUgA4Qm1w.png" width="150px" alt="python" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="150px" alt="python"/>
-  <img src="https://www.dicoding.com/blog/wp-content/uploads/2019/04/androidlogo.png" width="150px" alt="android studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="70px" alt="visual studio code" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="70px" alt="colab"/>
+  <img src="https://www.dicoding.com/blog/wp-content/uploads/2019/04/androidlogo.png" width="100px" alt="android studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50px" alt="visual studio code" />
 </div>
 
 ## Task Management
@@ -86,8 +86,18 @@ Already Deep Learning Models:
 For more information about datasets, accuracy, and all about machine learning, you can click [here.](https://github.com/farmer-nusantara/farmer-nusantara-machine-learning)
 
 <div style="display: flex;">
-  <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/paddy_accuracy.png" alt="paddy"/>
-  <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/corn_accuracy.png" alt="corn"/>
+  <figure>
+    <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/paddy_accuracy.png" alt="paddy"/>
+<!--     <figcaption>Paddy Accuracy</figcaption> -->
+  </figure>
+  <figure>
+    <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/corn_accuracy.png" alt="corn"/>
+<!--     <figcaption>Corn Accuracy</figcaption> -->
+  </figure>
+  <figure>
+    <img src="https://storage.googleapis.com/farmer-nusantara-storage/markdown_assets/soybean_accuracy.jpeg" alt="soybean"/>
+<!--     <figcaption>Soybean Accuracy</figcaption> -->
+  </figure> 
 </div>
 
 ## Farmer Nusantara RestAPI
